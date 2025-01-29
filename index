@@ -34,6 +34,21 @@
                         </ul>
 
                         <a href= "file:///C:/Users/S566210/OneDrive%20-%20nwmissouri.edu/Documents/GitHub/44563-webapps-s25-assignment3-AllisonLDolan/myMovie"> My Movie Page</a>
-                </body>z
+
+                        <hr></hr>
+                        <h2>Code Display</h2>
+                        <p>Add to an existing file's contents without overwriting the file and only updating at the end.</p>
+                        <pre>
+            const fileSystem = require('fs');
+
+            const updateFile = (fileName, text) => {
+                fileSystem.appendFile(fileName, text, (error) => {
+                if (error) throw error;
+                    console.log('Updated the file!');
+                });
+            };
+                        </pre>
+                        <a href= "https://code.pieces.app/collections/node-js"> Code Source</a>
+                </body>
 </html>
             
