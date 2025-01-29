@@ -7,5 +7,35 @@
                 <h1>Allison Dolan</h1>
                     <p>My favorite movie is Spiderman Across the Spider-verse and I think it is a work of art. Every frame is made to be perfect and very stylistic. They literally changed the amount of frames per second they animated the main character to portray that he was one step behind the rest of them until he had his moment and grew into being spiderman. The use of color to potray emotion and certain scenes is also crazy and so amazing to me.</p>
                     <img src = "iD8G8wfHs5eL7tMWtQqiEi.jpg" alt = "Mile's VA">
+
+                <h2>Alternate Actors</h2>
+                <table>
+                    <tr>
+                        <th> Name </th>
+                        <th> Reason </th>
+                        <th> Age </th>
+                    </tr>
+                    <tr>
+                        <td> Nadji Jeter </td>
+                        <td> He voices the PS5 game of it </td>
+                        <td> 27 </td>
+                    </tr>
+                    <tr>
+                        <td> Jharrel Jerome	</td>
+                        <td> He did the variant of Miles in the movie </td>
+                        <td> 27 </td>
+                    </tr>
+                    <tr>
+                        <td> Rhenzy Feliz </td>
+                        <td> Worked on multiple Marvel projects and speaks spanish and Miles is multicultural </td>
+                        <td> 27 </td>
+                    </tr>
+                    <tr>
+                        <td> Donald Glover </td>
+                        <td> Previous voice actor of Miles in 2014 </td>
+                        <td> 41 </td>
+                    </tr>
+                </table>
+                    
             </body>
 </html>
