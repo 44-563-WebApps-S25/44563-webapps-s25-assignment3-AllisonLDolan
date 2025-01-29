@@ -23,6 +23,15 @@
                             <li>Check the size</li>
                             <li>Hang the item on a hanger with the corresponding size tab</li>
                         </ol>
+                        <ul>
+                            <li>Miso Soup</li>
+                                <ul>
+                                    <li>Koji</li>
+                                    <li>Soybeans</li>
+                                </ul>
+                            <li>Edamame</li>
+                            <li>Gyoza</li>
+                        </ul>
                 </body>
 </html>
             
