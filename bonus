@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bonus</title>
+        </head>
+            <body>
+                <h1>Amber Dianthus and Amethyst</h1>
+                <hr></hr>
+                <h2>Amber Dianthus</h2>
+                <img src = "Amber.jpg" alt = "Amber">
+                <p>
+                    A hero that is able to stop one object in time and charm her foes. Amber is known for trapping and preserving things and Dainthus represent love and adoration. She uses her time stopping to capture villains and her charm to stop them long enough to be able to use her time powers since they can take a bit to activate.
+                </p>
+                <h3>Powers</h3>
+                <p>
+                    <ul>
+                        <li>Freezing Time</li>
+                        <li>Charm Spell</li>
+                    </ul>
+                </p>
+                <hr></hr>
+                <h2>Amethyst</h2>
+                <p>
+                    A sidekick known to help calm the minds of those around her giving clarity and a new look at situations. Amethyst as stones are said to have a calming presence that produces soothing dreams by bringing the dreamer more in tune with the Divine. She works as a support for her partner to calm her mind and civilians and as a support for slowing down or stopping villains.
+                </p>
+                <h3>Powers</h3>
+                <p>
+                    <ul>
+                        <li>Clear Mind</li>
+                    </ul>
+                </p>
+                <hr></hr>
+                <a href= "file:///C:/Users/S566210/OneDrive%20-%20nwmissouri.edu/Documents/GitHub/44563-webapps-s25-assignment3-AllisonLDolan/index"> Index</a>
+            </body>
+</html>
